@@ -110,7 +110,9 @@
 
  /* gjør bakgrunnen blåhvit */
     }
-    body {background-color: #d0e8e5;}
+    body {background-color: #d0e8e5;
+      overflow-x: hidden;
+    }
   
 
      /*gjør Halden logoen mindre + at den passer til navageringsbaren */
