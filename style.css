@@ -252,8 +252,9 @@ a:visited {
   margin-left: 13%;
 }
 
-.ha {
-  align-items: center;
+.icons {
+  text-align: center;
+  font-size: 30px;
 }
 
 
